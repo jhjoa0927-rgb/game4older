@@ -1,0 +1,6 @@
+{
+  "name": "청춘 두뇌 테트리스 - 어르신 인지 강화 게임",
+  "description": "치매 예방과 인지 건강을 돕는 어르신 맞춤형 실버 테트리스. 큰 글씨, 여유로운 속도, 음성 칭찬, 되돌리기 및 힌트 기능 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
